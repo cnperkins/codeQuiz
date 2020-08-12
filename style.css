@@ -1,0 +1,23 @@
+
+.container {
+    text-align: center;
+    border: 10px solid;
+    padding: 10px;
+    box-shadow: 20px 20px 50px blue;
+    margin: auto;
+    height: 20rem;
+    background-color: aquamarine;
+}
+
+body {
+    background-color: #d2cece;
+    text-align: center;
+}
+
+#saveDiv {
+    text-align: left;
+}
+
+.btn {
+    border: 1px solid;
+}
